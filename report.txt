@@ -1,0 +1,19 @@
+Rows after cleaning: 2
+Columns: 3
+
+Column Names:
+['name', 'age', 'gender']
+
+Summary Statistics:
+             age
+count   2.000000
+mean   23.000000
+std     1.414214
+min    22.000000
+25%    22.500000
+50%    23.000000
+75%    23.500000
+max    24.000000
+
+Summary:
+The dataset originally contained 4 rows. After cleaning, 2 rows remained. A total of 2 rows were removed due to missing values or duplicates.
